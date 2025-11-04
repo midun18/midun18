@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @midun18, currently working as a Software Engineer at Arcana Analytics
+- 👋 Hi, I’m @midun18, Software Engineer
 - 🌱 Masters in Data Science @ PSG College of Technology
 - 📫 You can connect with me on my LinkedIn @ https://www.linkedin.com/in/midun18/
 
